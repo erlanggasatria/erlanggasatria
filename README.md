@@ -9,6 +9,6 @@ I'm a passionate Quality Assurance Engineer and UI/UX Designer based in [Your Lo
 
   ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/erlanggasatria)
-- Email: [Your Email Address](mailto:satriapramana56@gmail.com)
-- Portfolio: [Your Portfolio Website](https://erlanggasatria.framer.website/)
+- LinkedIn: [erlanggasatria](https://www.linkedin.com/in/erlanggasatria)
+- Email: [satriapramana](mailto:satriapramana56@gmail.com)
+- Portfolio: [erlanggasatria](https://erlanggasatria.framer.website/)
